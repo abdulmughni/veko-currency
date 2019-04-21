@@ -1,0 +1,16 @@
+.ant-carousel .slick-dots li {
+  background-color: #000000;
+}
+
+.ant-carousel .slick-dots li.slick-active {
+  background-color: #7a7a7a;
+}
+
+.popupUserInfo div {
+  margin-bottom: 10px;
+}
+
+.popupUserInfo div b {
+  width: 100%;
+  max-width: 300px;
+}
